@@ -1,2 +1,4 @@
-# CMoC
-Cluster Innovation Centre Month of Code
+##Cluster Innovation Centre's Month of Code
+
+
+
