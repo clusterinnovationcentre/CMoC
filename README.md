@@ -27,7 +27,8 @@ The manuals are mentors and students can be found here<link>.
 
 ### Registration
 
-If you wish to register for the event, please fill the Google Form in the link. 
+If you wish to register for the event as a student, please click here.
+If you wish to register as a mentor, please click here.
 
 
 ### List of Projects available
