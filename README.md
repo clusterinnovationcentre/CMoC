@@ -22,7 +22,7 @@ The objectives of this program are,
 
 ### Manuals 
 
-The manuals for mentors can be found here.
+The manuals for mentors can be found [ here ](https://drive.google.com/file/d/11eyoVr4otw7qd3BfRzC-hOsZf4xvdcPr/view?usp=sharing).
 
 ### Registration
 
