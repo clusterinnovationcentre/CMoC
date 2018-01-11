@@ -22,18 +22,18 @@ The objectives of this program are,
 
 ### Manuals 
 
-The manuals are mentors and students can be found here<link>.
-
+The manuals for mentors can be found here.
 
 ### Registration
 
-If you wish to register for the event as a student, please click here.
-If you wish to register as a mentor, please click here.
+If you wish to register as a mentor, please [click here](https://docs.google.com/forms/d/e/1FAIpQLSenvqqpuBxkD6YDvHQkwRmt8vlZxmxnU54yv8-RJRbIqTBeIg/viewform).  
+
+For students, registration will start on 20th of this month. Stay tuned! 
 
 
 ### List of Projects available
 
 | Project | GitHub Link | Mentor |
 |---------|-------------|--------|
-
+|To be updated | Yep, still waiting | Still waiting |
 
