@@ -1,6 +1,6 @@
 ## Cluster Innovation Centre's Month of Code
 
-Cluster Innovation Centre's Month of Code, CMoC for short, is a coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as train students for the Google's Annual Programme, Google Summer of Code.
+Cluster Innovation Centre's Month of Code, CMoC for short, is a coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.
 
 ### Timeline  
   
@@ -31,7 +31,7 @@ The objectives of this program are,
 
 ### Manuals 
 
-The mentor manual can be found [ here ](https://drive.google.com/file/d/11eyoVr4otw7qd3BfRzC-hOsZf4xvdcPr/view?usp=sharing).  
+The mentor manual can be found [ here ](https://drive.google.com/file/d/1U3g5JEL70MWFSpdk864NgAA_21gkbUV2/view?usp=sharing).  
 The student manual will be uploaded soon.
 
 ### Registration
