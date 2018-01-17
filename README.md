@@ -46,3 +46,8 @@ For students, registration will start on 20th January 2018. Stay tuned!
 |---------|-------------|--------|
 |To be updated | Yep, still waiting | Still waiting |
 
+### Contributors  
+  
+- [Pankaj Baranwal](https://github.com/Pankaj-Baranwal/)
+- [Yatharth Rai](https://github.com/SirEggKnight)
+- Team CMoC
