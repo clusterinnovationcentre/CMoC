@@ -49,10 +49,3 @@ For students, registration will start on 20th January 2018. Stay tuned!
 | Project | GitHub Link | Mentor |
 |---------|-------------|--------|
 |To be updated | Yep, still waiting | Still waiting |
-
-### Contributors  
-  
-- [Pankaj Baranwal](https://github.com/Pankaj-Baranwal/)
-- [Yatharth Rai](https://github.com/SirEggKnight)
-- [Harshit Joshi](https://github.com/duskybomb)
-- Team CMoC
