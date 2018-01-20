@@ -7,14 +7,66 @@
 Cluster Innovation Centre's Month of Code, CMoC for short, is a coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.
 
 ### Timeline  
+<table>
+  <tr>
+    <td>
+      10 January- 18 January
+    </td>
+    <td>
+      Mentor Registration 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strike>20 January</strike>
+      21 January
+    </td>
+    <td>
+      Final Mentor List displayed
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strike>20 January </strike> 21 January  - 28 January
+    </td>
+    <td>
+      Student Registration  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      01 February - 13 February 
+    </td>
+    <td>
+      First half of coding period and distribution of resources for GSoC
+    </td>
+  </tr>
+  <tr>
+    <td>
+      14 February
+    </td>
+    <td>
+      Mid-Term evaluation and Valentine's day surprize!
+    </td>
+  </tr>
+  <tr>
+    <td>
+      15 February - 28 February
+    </td>
+    <td>
+      Second half of coding period and further mentoring for GSoC
+    </td>
+  </tr>
+  <tr>
+    <td>
+      01 March - 05 March
+    </td>
+    <td>
+      Wrap up weekend with release of best performances, and an ending note
+    </td>
+  </tr>
+</table>
   
-10 Jan - 18 Jan => Mentor Registration  
-20 Jan &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=> Final Mentor List displayed  
-20 Jan - 28 Jan => Student Registration  
-01 Feb - 13 Feb => First half of coding period and distribution of resources for GSoC  
-14 Feb &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=> Mid-Term evaluation and Valentine's day surprize!  
-15 Feb - 28 Feb => Second half of coding period and further mentoring for GSoC  
-01 Mar - 05 Mar => Wrap up weekend with release of best performances, and an ending note
 
 ### Objectives
 
@@ -36,13 +88,13 @@ The objectives of this program are,
 ### Manuals 
 
 The mentor manual can be found [ here ](https://drive.google.com/file/d/1U3g5JEL70MWFSpdk864NgAA_21gkbUV2/view?usp=sharing).  
-The student manual will be uploaded soon.
+The student manual can be found [here](https://drive.google.com/file/d/1gMt0DGSoeRhhbGBRkNZlGRALz2ABT1zH/view?usp=sharing).
 
 ### Registration
 
-If you wish to register as a mentor, please [click here](https://docs.google.com/forms/d/e/1FAIpQLSenvqqpuBxkD6YDvHQkwRmt8vlZxmxnU54yv8-RJRbIqTBeIg/viewform).  
+Mentor registration are now closed! 
 
-For students, registration will start on 20th January 2018. Stay tuned! 
+For students, registration will start on 21<sup>st</sup> January 2018. Stay tuned! 
 
 ### List of Projects available
 
