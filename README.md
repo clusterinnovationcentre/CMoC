@@ -97,7 +97,4 @@ Mentor registration are now closed!
 For students, registration will start on 21<sup>st</sup> January 2018. Stay tuned! 
 
 ### List of Projects available
-
-| Project | GitHub Link | Mentor |
-|---------|-------------|--------|
-|To be updated | Yep, still waiting | Still waiting |
+List of projects can be found <a href="https://github.com/clusterinnovationcentre/CMoC/blob/project-test/Project_list.md">here</a>
