@@ -89,7 +89,7 @@ The objectives of this program are,
 ### Manuals 
 
 The mentor manual can be found [ here ](https://drive.google.com/file/d/1U3g5JEL70MWFSpdk864NgAA_21gkbUV2/view?usp=sharing).  
-The student manual can be found [here](https://drive.google.com/file/d/1Enk7GjJx_hK64P3i5OvPssNESrN9B8xK/view?usp=sharing)
+The student manual can be found [here](https://drive.google.com/file/d/1O9uFfHRqMkLGy0G9IDA97rBfTxPNSRkj/view?usp=sharing)
 
 ### Registration
 
