@@ -141,4 +141,4 @@ For students, register [here!](https://goo.gl/forms/Ri0VMYBDappWpC1p1)
 | Carlos Toxtli                     |[Account Provisioning for Google Apps]( https://github.com/google/account-provisioning-for-google-apps)(Java, Android) | [Bots Workflow Designer](https://github.com/toxtli/bots-workflow-designer)(HTML, JavaScript, Python)               | [Facebook Chat API](https://github.com/Schmavery/facebook-chat-api                          )(NodeJS)|
 | Sébastien Celles                  | [ExtensibleScheduler](https://github.com/scls19fr/ExtensibleScheduler.jl/)(Julia)            | [DataReaders](https://github.com/JuliaDataReaders/DataReaders.jl)(Julia)                  |                                                                         |
 | Vipul Goyal                  | [Alchem](https://github.com/alchemsynergy/alchem)(Java)            |                   |                                                                         |
-| Nikhil Mishra | [bnb2018](https://github.com/nkmishra1997/bnb2018)(HTML, JavaScript) | | |
+| Nikhil Mishra | [bnb2018](https://github.com/nkmishra1997/bnb2018)(MEAN Stack) | | |
