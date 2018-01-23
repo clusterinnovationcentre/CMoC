@@ -4,7 +4,7 @@
   <img src="https://github.com/duskybomb/CMoC/blob/master/Beta_white.png?raw=true" width ="512px" height ="auto">
 </h1>
 
-Cluster Innovation Centre's Month of Code, CMoC for short, is a coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.
+Cluster Innovation Centre's Month of Code, CMoC for short, is an online coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.
 
 ### Timeline  
   
@@ -140,3 +140,4 @@ For students, register [here!](https://goo.gl/forms/Ri0VMYBDappWpC1p1)
 | Vinay Khobragade                  | [Surface](https://github.com/feat7/Surface)(PHP)                               | [React Native Firebase Authentication](https://github.com/feat7/rnf-auth)(Redux)                              | [Meetings Manager](https://github.com/feat7/meetings-manager)(PHP)                               |
 | Carlos Toxtli                     |[Account Provisioning for Google Apps]( https://github.com/google/account-provisioning-for-google-apps)(Java, Android) | [Bots Workflow Designer](https://github.com/toxtli/bots-workflow-designer)(HTML, JavaScript, Python)               | [Facebook Chat API](https://github.com/Schmavery/facebook-chat-api                          )(NodeJS)|
 | Sébastien Celles                  | [ExtensibleScheduler](https://github.com/scls19fr/ExtensibleScheduler.jl/)(Julia)            | [DataReaders](https://github.com/JuliaDataReaders/DataReaders.jl)(Julia)                  |                                                                         |
+| Vipul Goyal                  | [Alchem](https://github.com/alchemsynergy/alchem)(Java)            |                   |                                                                         |
