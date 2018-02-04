@@ -4,11 +4,12 @@
   <img src="https://github.com/duskybomb/CMoC/blob/master/Beta_white.png?raw=true" width ="512px" height ="auto">
 </h1>
 
-Cluster Innovation Centre's Month of Code, CMoC for short, is an online coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.
+Cluster Innovation Centre's Month of Code, CMoC for short, is an online coding program organised by HashInclude, IT Society of Cluster Innovation Centre to celebrate open source, as well as guide students for the Google's Annual Programme, Google Summer of Code.  
+  
+All the selected students along with their allotted projects can be found here:  
+https://docs.google.com/spreadsheets/d/17WuROKFaEzArRDfp2h8DeHTn-DWbxPbsaI3TOZ3Lwwc/edit?usp=sharing
 
 ### Timeline  
-
-So sorry for the delay! We've been having some problems, we'll begin the event ASAP! 
   
 <table>
   <tr>
@@ -97,7 +98,7 @@ The student manual can be found [here](https://drive.google.com/file/d/1aZLLrRGy
 
 Mentor Registration closed!  
 
-For students, register [here!](https://goo.gl/forms/Ri0VMYBDappWpC1p1) 
+Student Registration closed!
 
 ### List of Projects available
 
